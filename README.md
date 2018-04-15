@@ -1,5 +1,5 @@
 # GoogleNet
-<h2>Program for inception</h2><br>
+<h2>Inception using TFLearn</h2><br>
 <ul>
 
 <li>This program was built using the tflearn API for tensorflow.</li>
